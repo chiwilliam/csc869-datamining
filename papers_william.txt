@@ -1,0 +1,695 @@
+TITLE:
+Reproductive Variables, Soy Intake, and Lung Cancer Risk among Nonsmoking Women in the Singapore Chinese Health Study.
+
+ABSTRACT:
+{\food Dietary soy isoflavonoid } intake {\relationship +1 was associated with a statistically significant inverse trend } among {\subject nonsmokers } only (relative risks, 0.59 for highest versus lower quartile; P for trend, 0.021). These findings {\relationship +1 add support for the role of hormonal factors } in the etiology of {\disease lung cancer } among {\subject nonsmoking women }, and are consistent with emerging experimental evidence in this regard.
+
+TITLE:
+Report on the 8th International Symposium on the Role of Soy in Health Promotion and Chronic Disease Prevention and Treatment.
+
+ABSTRACT:
+{\food Soyfoods } were first consumed in China more than a millennium ago, but it is the {\relationship +1 low incidence } of {\disease breast and prostate cancer, heart disease, } and hot flashes in Japan, despite the high socioeconomic status of this country, that helped fuel interest in the early 1990s in the possible  {\relationship +2 chronic disease-preventive properties } of  {\food soy } and certain  {\food soybean constituents }.
+
+TITLE:
+Soy isoflavones and risk of cancer recurrence in a cohort of breast cancer survivors: the Life After Cancer Epidemiology study.
+
+ABSTRACT:
+{\food Soy isoflavones }, structurally similar to endogenous estrogens, {\relationship 0 may affect  } {\disease breast cancer } through both hormonally mediated and non-hormonally related mechanisms. Although the effects of {\food soy } {\relationship -1 are not well understood }, some {\subject breast cancer survivors } {\relationship +1 increase } their  {\food soy  } intake post-diagnosis in attempt to improve their prognosis. Therefore, we examined the role of {\food soy isoflavone } intake and the risk of {\disease breast cancer } recurrence by hormone receptor status, menopausal status, and {\drug tamoxifen } therapy. 
+Suggestive {\relationship +1 trends for a reduced risk } of {\disease cancer } recurrence were observed with increasing quintiles of {\protein daidzein } and {\protein glycetin } intake compared to no intake among postmenopausal women. Among postmenopausal women treated with {\drug tamoxifen }, there was an approximately {\relationship +1 60% reduction } in {\disease breast cancer } recurrence comparing the highest to the lowest  {\protein daidzein } intakes.
+{\food Soy isoflavones } consumed at levels comparable to those in Asian populations {\relationship +1 may reduce the risk } of cancer recurrence in {\subject women } receiving {\drug tamoxifen } therapy and moreover, appears not to interfere with tamoxifen efficacy. Further confirmation is required in other large prospective studies before recommendations regarding soy intake can be issued to breast cancer survivors.
+
+TITLE:
+Dietary patterns and breast cancer risk in Asian American women.
+
+ABSTRACT:
+{\subject women } who were high consumers of Western and ethnic meat/starch and {\subject low consumers } of the vegetables/{\food soy } diets {\relationship +1 showed the highest risk }(OR: 2.19; 95% CI: 1.40, 3.42; P for trend = 0.0005). SHBG concentrations were 23% lower in women with a high intake of the meat/starch pattern and a low intake of the vegetables/soy pattern than in those with a low intake of the meat/starch pattern and a high intake of the vegetables/soy pattern (P for trend = 0.069). 
+TITLE:
+Soy consumption and prostate cancer risk in men: a revisit of a meta-analysis.
+
+ABSTRACT:
+Epidemiologic studies have shown that the consumption of {\food soy } foods {\relationship +1 may be associated } with a reduction in {\disease cancer } risk in {\subject humans }. 
+The purpose of this study was to conduct a meta-analysis on the {\relationship 0 association } between {\food soy } consumption and {\disease prostate cancer } risk in {\subject men }. 
+The results of this analysis suggest that consumption of {\food soy } foods {\relationship +2 is associated with a reduction } in {\disease prostate cancer } risk in {\subject men }. This protection may be associated with the type and quantity of soy foods consumed.
+
+TITLE:
+Prevalence, sources, and predictors of soy consumption in breast cancer.
+
+ABSTRACT:
+A number of components in {\food soy } {\relationship +1 appear to have anticancer properties }, including the {\protein isoflavones }, {\protein genistein } and {\protein daidzein } . The use of {\food soy } by {\subject women } with {\disease breast cancer } {\relationship -1 is now being questioned } because of the {\disease estrogen-like effects of isoflavones } and possible interactions with {\protein tamoxifen }. 
+
+TITLE:
+Soy: a complete source of protein.
+
+ABSTRACT:
+{\subject Populations } with diets high in {\food soy } protein and low in animal protein {\relationship +2 have lower risks }of {\disease prostate and breast cancers } than other populations. Increasing dietary whole {\food soy } protein {\relationship +2 lowers levels } of  {\disease total cholesterol, low-density lipoproteins, and triglycerides }; {\relationship +1 may improve } {\disease menopausal hot flashes }; and {\relationship +1 may help maintain } {\disease bone density } and decrease fractures in postmenopausal women. {\relationship 0 There are not enough data to make recommendations } concerning {\food soy } intake in {\subject women } with a history of  {\disease breast cancer }.
+
+TITLE:
+Inhibition of prostaglandin synthesis and actions by genistein in human prostate cancer cells and by soy isoflavones in prostate cancer patients.
+
+ABSTRACT:
+{\food Soy } and its constituent {\protein isoflavone } {\protein genistein } {\relationship +2 inhibit the development and progression } of {\disease prostate cancer } (PCa). 
+
+TITLE:
+Breast cancer cell response to genistein is conditioned by BRCA1 mutations.
+
+ABSTRACT:
+{\food Soy } phytoestrogens, among which {\protein genistein }, {\relationship +1 seem to protect } from {\disease breast cancer } development. In order to study the role of the {\subject breast tumour suppressor } {\gene BRCA1 } in response to genistein, we used a new breast cancer cell model: the SUM1315MO2 cell line carrying the 185delAG BRCA1 mutation, which we stably transfected with a plasmid encoding wild-type BRCA1. We showed that growth of {\gene BRCA1 } mutant cells was strongly inhibited by genistein whereas it only had a weak effect in cells expressing wild-type BRCA1 protein. BRCA1 mutant cells hypersensitivity could be linked to higher expression of ERbeta gene, which suggests that {\subject genistein } {\relationship +1  may be an efficient inhibitor } of {\disease cancer } development in {\gene BRCA1 } mutant {\disease breast cancer } cells.
+
+TITLE:
+Identification of the potent phytoestrogen glycinol in elicited soybean (Glycine Max) Abbreviated Title: Glycinol: A Novel Phytoestrogen.
+
+ABSTRACT:
+The primary induced isoflavones in {\food soybean }, the glyceollins, have been shown to be potent estrogen antagonists in vitro and in vivo. The discovery of the {\subject glyceollins' } ability to {\relationship +2 inhibit cancer cell proliferation } has led to the analysis of estrogenic activities of other induced isoflavones. In this study, we investigate a novel isoflavone, glycinol, a precursor to glyceollin that is produced in elicited {\food soy }. Sensitive and specific in vitro bioassays were used to determine that glycinol exhibits potent estrogenic activity. Estrogen-based reporter assays were performed and glycinol displayed a marked estrogenic effect on ER signaling between 1-10 microM, which correlated with comparable colony formation of MCF-7 cells at 10 microM. {\protein Glycinol } also induced the expression of estrogen responsive {\gene genes (PgR and SDF-1) }. 
+
+TITLE:
+Radiation-induced HIF-1alpha cell survival pathway is inhibited by soy isoflavones in prostate cancer cells.
+
+ABSTRACT:
+We previously showed that treatment of {\disease prostate cancer } cells with {\food soy isoflavones } and radiation {\relationship +2 resulted in greater cell killing } in vitro, and caused downregulation of NF-kappaB and APE1/Ref-1. 
+This mechanism {\relationship +1 could result in the inhibition } of genes essential for {\disease tumor growth and angiogenesis }, as demonstrated by inhibition of {\gene VEGF } production and {\gene HUVECs } tube formation. 
+
+TITLE:
+Combined effects of terazosin and genistein on a metastatic, hormone-independent human prostate cancer cell line.
+
+ABSTRACT:
+Metastatic prostate cancer progresses from androgen-dependent to androgen-independent. Terazosin, a long-acting selective alpha1-adrenoreceptor antagonist, induces apoptosis of prostate cancer cells in an alpha1-adrenoreceptor-independent manner, while {\protein genistein }, a major {\food soy isoflavone }, {\relationship +2 inhibits the growth } of several types of {\disease cancer cells }. 
+
+TITLE:
+Isoflavone consumption and subsequent risk of hepatocellular carcinoma in a population-based prospective cohort of Japanese men and women.
+
+ABSTRACT:
+In conclusion, {\food isoflavone } consumption {\relationship -1 may be associated with an increased risk } of {\disease HCC } in {\subject women }. Women with hepatitis virus infection may be advised to abstain from isoflavone consumption. 
+
+TITLE:
+Prospective cohort study of soy food intake and colorectal cancer risk in women.
+
+ABSTRACT:
+{\food Soy } and some of its constituents, such as isoflavones, {\relationship +2 have been shown to have cancer-inhibitory activities } in experimental studies. Data from epidemiologic studies linking usual {\food soy } food intake with {\disease colorectal cancer } {\relationship 0 are limited and inconsistent }. 
+This prospective study suggests that consumption of {\food soy } foods {\relationship +1 may reduce the risk } of {\disease colorectal cancer } in {\subject postmenopausal women }.
+
+TITLE:
+Prostate cancer and vegetable consumption.
+
+ABSTRACT:
+Evidence on the effect of pulses or {\food soy } consumption on {\disease prostate cancer } risk was limited but {\relationship +1 suggestive of decreased risk } with increased pulses or soy consumption. 
+
+TITLE:
+Respective contribution exerted by AF-1 and AF-2 transactivation functions in estrogen receptor alpha induced transcriptional activity by isoflavones and equol: Consequence on breast cancer cell proliferation.
+
+ABSTRACT:
+Estrogens used in hormone replacement therapy regimens may increase the risk of developing breast cancer. Paradoxically, high consumption of plant-derived phytoestrogens, particularly {\food soybean isoflavones }, {\relationship +1 is associated with a low incidence } of {\disease breast cancer }.
+
+TITLE:
+Green tea, soy, and mammographic density in Singapore Chinese women.
+
+ABSTRACT:
+There is increasing evidence from observational studies that {\disease breast cancer } risk {\relationship +1 is inversely associated } with {\food soy } and green tea consumption. 
+Only among  {\subject postmenopausal women } who reported very high {\food soy  } intake (Q4) compared with those with less soy intake was there any association noted between PMD and soy intake (18.9% versus 20.5%; P = 0.035). 
+Our findings suggest that both regular green tea and high {\food soy } intake {\relationship +1 may have beneficial effects } on the {\disease breast }; the effect of green tea on PMD may be stronger than the effect of soy.
+
+TITLE:
+Lunasin, a novel seed peptide for cancer prevention.
+
+ABSTRACT:
+Carcinogenesis is a multistage process derived from a combination of multiple heritable and environmental factors. It has been reported that {\subject populations } consuming high levels of {\food soybean products }  {\relationship +2 have both lower } {\disease cancer } incidence and mortality rates in the western countries. {\protein Lunasin } is a novel and promising peptide initially discovered in {\food soy } and now found in wheat, barley and other seeds. {\relationship +2 Its cancer-preventive efficacy has been shown } in mammalian cells which were induced by {\chemical chemical carcinogens } and {\disease viral oncogenes }. Moreover, this {\protein peptide } {\relationship +2 has been found to prevent } {\disease skin cancer } in a {\subject mouse } cancer model induced by {\chemical chemical carcinogens }.
+
+TITLE:
+Nutrition, total fluid and bladder cancer.
+
+ABSTRACT:
+ruit and yellow-orange vegetables, particularly carrots and selenium, are probably associated with a moderately reduced risk of {\disease bladder cancer }. Citrus fruits and cruciferous vegetables were also identified as having a possible protective effect. {\relationship -1 Possible risk factors } are salted and barbecued meat, pork, total fat, pickled vegetables, salt, {\food soy products }, spices and artificial sweeteners.
+
+TITLE:
+Soy extract is more potent than genistein on tumor growth inhibition.
+
+ABSTRACT:
+However, {\disease tumor growth } {\relationship +2 was significantly reduced } in the {\food soy extract }-{\subject treated group } compared to the control and genistein-treated groups. Immunohistochemistry of proliferating cell nuclear antigen (PCNA) also revealed that the soy extract treatment effectively reduced cell proliferation of the implanted tumors.
+
+
+TITLE:
+Sensitization of ovarian cancer cells to cisplatin by genistein: the role of NF-kappaB.
+
+ABSTRACT:
+{\protein Genistein }, a {\food soy isoflavone } {\relationship +2 has been shown to enhance the effect of chemotherapy } in {\disease prostate and pancreatic cancer } cells in vitro and in vivo by reversing chemo-resistance phenotype.
+
+TITLE:
+3,3'-Diindolylmethane and genistein decrease the adverse effects of estrogen in LNCaP and PC-3 prostate cancer cells.
+
+ABSTRACT:
+Evidence suggests that 17beta-estradiol (E2) contributes to the risk of prostate cancer (PCa), whereas the {\chemical phytochemicals genistein } from {\food soy } and 3,3'-diindolylmethane (DIM), derived from indole-3-carbinol in cruciferous vegetables, {\relationship +2 decrease the risk } of {\disease PCa }. 
+{\chemical Genistein } {\relationship -2 increased proliferation } at  {\subject low concentrations } and {\relationship +2 decreased proliferation } at {\subject higher concentrations };
+We conclude that DIM and {\chemical genistein } {\relationship +2 decrease } {\subject the effects of E2  } that have the potential to promote {\disease PCa }.
+
+TITLE:
+Plasma isoflavones and subsequent risk of prostate cancer in a nested case-control study: the Japan Public Health Center.
+
+ABSTRACT:
+The incidence of {\disease prostate cancer } is much lower in Japanese than Western populations. Given the preventive effects of isoflavones on carcinogenesis in the prostate in many nonhuman studies and the high consumption of isoflavones in Japanese, this {\relationship +1 low incidence may be partly due } to the effects of {\food soy }. 
+Plasma {\protein genistein } level {\relationship +1 tended to be inversely associated } with the risk of total {\disease prostate cancer }. Although plasma daidzein showed no association, the highest tertile for plasma equol, a metabolite of daidzein, was significantly associated with a decreased risk of total prostate cancer (OR = 0.60; 95% CI, 0.36 to 0.99; P(trend) = .04). Isoflavones may prevent the development of prostate cancer.
+
+TITLE:
+The Asp(327)Asn polymorphism in the sex hormone-binding globulin gene modifies the association of soy food and tea intake with endometrial cancer risk.
+
+ABSTRACT:
+We evaluated the interactive effect of polymorphisms in the sex hormone-binding globulin {\gene (SHBG)  } gene with {\food soy isoflavones }, tea consumption, and dietary fiber on endometrial cancer risk in a population-based, case-control study of 1,199 endometrial cancer patients and 1,212 controls. 
+We found that the {\disease Asp(327)Asn (rs6259) polymorphism } {\relationship +1 was associated with decreased risk } of {\disease endometrial cancer }, particularly among {\subject postmenopausal women } (OR = 0.79, 95% CI = 0.62-1.00). This single nucleotide polymorphism (SNP) modified associations of {\food soy isoflavones } and tea consumption but not fiber intake with {\disease endometrial cancer }, with the inverse association of soy intake and tea consumption being more evident for those with the Asp/Asp genotype of the SHBG gene at Asp(327)Asn (rs6259), particularly premenopausal women (P(interaction) = 0.06 and 0.02, respectively, for soy isoflavones and tea intake). This study suggests that gene-diet interaction may play an important role in the etiology of endometrial cancer risk.
+
+TITLE:
+Soy, isoflavones, and prostate cancer.
+
+ABSTRACT:
+Prostate cancer has marked geographic variations between countries. Genetic, epigenetic, and environmental factors co-contribute to the development of the cancer. The association between {\subject dietary factors } and {\disease prostate cancer }  {\relationship 0 has been investigated } and one explanation for the low incidence of the cancer in Asia might be high consumption of fresh vegetables including soybean and its products. {\food Soybean } is a species of legume contain high amount of {\protein isoflavones } including {\protein genistein }, {\protein daidzein }, {\protein glycitein }, and {\protein equol }, {\relationship +2 which have a prophylactic effect } on {\disease prostate cancer }. In this article, epidemiological and laboratory studies on the relationship between soybeans, isoflavones and prostate cancer are reviewed and large scale multiethnic epidemiological studies are recommended.
+
+TITLE:
+Continuous in vitro exposure to low-dose genistein induces genomic instability in breast epithelial cells.
+
+ABSTRACT:
+After 3 months of exposure to genistein, the cell line MCF-10A/G1 showed loss of a normal chromosome 8 and gain of an extra chromosome 20, as well as loss of a chromosomal segment on the short arm of chromosome 9, leading to a homozygous deletion of the tumor suppressor genes {\gene CDKN2A } (alias p16(INK4a)) and {\gene CDKN2B } (alias p15(INK4b)). Our results suggest that long-term, {\subject low-concentration exposure } to {\protein genistein } {\relationship -1 may have the potential to induce chromosomal imbalances }. These genotoxic effects may work in concert with other factors to induce genetic lesions that contribute to {\food soy }- and genistein-associated risk.
+
+TITLE:
+Diet and dietary supplement intervention trials for the prevention of prostate cancer recurrence: a review of the randomized controlled trial evidence.
+
+ABSTRACT:
+A significant decrease in {\disease prostate specific antigen } {\relationship +1 was observed } in some studies using a low fat vegan diet, {\food soy beverage } or lycopene supplement.
+
+TITLE:
+Genistein down-regulates androgen receptor by modulating HDAC6-Hsp90 chaperone function.
+
+ABSTRACT:
+Our results suggest that {\protein genistein } {\relationship +1 could be used as a potential chemopreventive agent } for {\disease prostate cancers } along with known inhibitors of {\gene HDAC6 } and  {\gene Hsp90 }.
+
+TITLE:
+Effect of genistein on cholesterol metabolism-related genes in a colon cancer cell line.
+
+ABSTRACT:
+The major {\food soy-derived isoflavones } such as {\protein genistein } {\relationship +1 has been demonstrated to possess } {\disease anticarcinogenic activity } in animal model systems. The present study was designed to investigate the effects of isoflavone genistein exposure at concentrations ranging from 0.01 to 50 muM on the LDL receptor and {\gene HMG-CoA } reductase gene expression in the estrogen receptor positive DLD-1 human {\disease colon cancer } cell line.
+
+TITLE:
+Soy protein containing isoflavones and mammographic density in a randomized controlled trial in postmenopausal women.
+
+ABSTRACT:
+{\subject The results of this trial } {\relationship 0 do not support the hypothesis } that a diet high in  {\food soy } protein among postmenopausal women decreases mammographic density.
+
+TITLE:
+No effect of red clover-derived isoflavone intervention on the insulin-like growth factor system in women at increased risk of colorectal cancer.
+
+ABSTRACT:
+The results of our trial, supported by a qualitative review of {\food soy } trials published to date, suggest that {\protein isoflavones } {\relationship 0 do not significantly affect } circulating levels of {\gene IGF } system components. Increased levels of IGF-I, as observed in most of these trials, are likely due to simultaneous protein supplementation.
+
+TITLE:
+Soy isoflavones and their bone protective effects.
+
+ABSTRACT:
+Several observational studies have suggested that populations with a high dietary {\food soy } intake {\relationship +2 have a lower incidence } of {\disease osteoporosis-related fractures } when compared to Western populations. However, {\relationship 0 there has not been consistent data } to show that {\food soy } {\protein isoflavones } protect against or lessen {\disease bone loss }. Studies in our laboratory showed that {\protein genistein }, the major {\food soy isoflavone }, {\relationship -1 could stimulate } osteoblastic functions as well as human {\disease breast cancer } cell growth.
+
+TITLE:
+Phytoestrogens and breast cancer: a complex story.
+
+ABSTRACT:
+{\protein Genistein } {\relationship -2 enhances the proliferation } of E-dependent human {\disease breast cancer } tumour growth. In a similar manner, {\food dietary genistein } {\relationship -2 stimulates tumour growth } in the chemically-induced (NMU) {\disease mammary cancer } rodent model. 
+In contrast to the more purified diets, studies with {\food soy flour } of equivalent genistein levels {\relationship 0 did not stimulate the growth } of E-dependent {\disease breast cancer } tumours in vivo. However, the size of these tumours also did not regress as is observed in control groups in which oestrogen and genistein have been withdrawn.
+
+TITLE:
+Prospective study of dietary patterns and colorectal cancer among Singapore Chinese.
+
+ABSTRACT:
+Using nearly 10 years of follow-up data, we observed {\relationship 0 no association } with either the meat-dim sum or {\food vegetable-fruit-soy r pattern for  {\disease colorectal cancer }. In conclusion, neither individual nutrients or foods nor dietary patterns appear to explain the rise in colorectal cancer among Singapore Chinese population.
+
+TITLE:
+Soy isoflavones and immunity.
+
+ABSTRACT:
+The amount of soy products consumed in Japan is much greater than that in Western countries. Recent evidence indicates that {\food soy isoflavones } {\relationship +2 play a beneficial role } in  {\disease obesity },{\protein cancer },{\protein osteoporosis }, and {\protein cardiovascular disease }. The soybean isoflavone genistein is present at high levels in soy products. Genistein is structurally similar to 17beta-estradiol (E2), and genistein has been suggested to be act as E2 or an antagonist against E2. Genistein suppresses antigen-specific immune response in vivo and lymphocyte proliferation response in vitro. However, genistein enhances the cytotoxic response mediated by NK and cytotoxic T cells and the cytokine production from T cells. Thus, the effect of genistein on immunity is immune cell-dependent. Due to its unique effect on immune function, genistein has been used for the treatment of the diseases in animal models and it has been found that {\protein genistein } {\relationship -2 inhibits } {\disease allergic inflammatory responses }. In this review, we summarize current studies related to the effect of isoflavone genistein on the immune system.
+
+TITLE:
+Dietary intake of soy protein and tofu in association with breast cancer risk based on a case-control study.
+
+ABSTRACT:
+{\food Soy } food and its constituents {\relationship +1 may protect } against {\disease breast cancer }, but the association between {\food soy } intake and decreased {\disease breast cancer } risk {\relationship 0 is inconsistent }. 
+We concluded that increased regular {\food soy } food intake at a level equivalent to traditional Korean consumption levels {\relationship +1 may be associated } with a reduced risk of  {\disease breast cancer }, and this effect is more pronounced in premenopausal women.
+
+TITLE:
+Genistein induction of human sulfotransferases in HepG2 and Caco-2 cells.
+
+ABSTRACT:
+Sulfotransferases are phase II drug-metabolizing enzymes. While the induction of sulfotransferases by hormones and endogenous molecules is relatively well known, induction by xenobiotics is not well studied. {\protein Isoflavones } are naturally occurring phyto-oestrogens, mainly existing in {\food soy } food products. They {\relationship +2 have been described as health-promoting, disease-preventing } dietary supplements and as agents with cancer-preventive activities. 
+
+TITLE:
+Dose-dependent absorption, metabolism, and excretion of genistein in rats.
+
+ABSTRACT:
+{\protein Genistein } (4',5,7-trihydroxyisoflavone), a naturally occurring phenolic compound, {\relationship +2 possesses well-known preventive activity } in {\disease breast and prostate cancer, cardiovascular diseases, and postmenopausal problems }. The aim of this study is to investigate the distribution and dose-dependent absorption, metabolism, and excretion of genistein in rats. 
+
+TITLE:
+Dietary soy and isoflavone intake and risk of colorectal cancer in the Japan public health center-based prospective study.
+
+ABSTRACT:
+Several experimental studies have reported that the anticarcinogenic properties of dietary soy play an important role in preventing colorectal cancer. However, few epidemiologic studies have examined this association in general populations and their findings have been inconsistent. 
+These findings suggest that the intake of {\protein isoflavones }, miso soup, and {\food soy } food {\relationship 0 has no substantial effect } on the risk of {\disease colorectal cancer } in Japanese men and women.
+
+TITLE:
+Natural antioxidants.
+
+ABSTRACT:
+This article summarizes the active components, pharmacologic properties, and clinical effectiveness of a number of natural antioxidant ingredients including {\food soy }, feverfew, mushroom extracts, teas, Coffea arabica (CoffeeBerry), Pinus pinaster (Pycnogenol), and Polypodium leucotomos. Recent clinical trials suggest that these compounds {\relationship +1 have promising efficacy } in the topical treatment of {\disease oxidative stress-induced dermatoses }.
+
+TITLE:
+Reduced mammary tumor progression in a transgenic mouse model fed an isoflavone-poor soy protein concentrate.
+
+ABSTRACT:
+Dietary exposure to {\food soy } {\relationship +1 has been associated with reduced } {\disease breast cancer } incidence. Soy {\protein isoflavones } and protein components, such as protease inhibitors and the lunasin peptide, {\relationship +1 have been indicated as potential agents reducing } {\disease carcinogenesis }.
+These results indicate that a diet containing an isoflavone-poor soy protein concentrate may inhibit breast tumor progression and metastasis development.
+
+TITLE:
+Nondenatured soy extracts reduce UVB-induced skin damage via multiple mechanisms.
+
+ABSTRACT:
+UV irradiation results in DNA damage, inflammation and immunosuppression, leading to the development of basal and squamous cell carcinomas. Earlier data show that topical treatment with {\food nondenatured soy extracts } {\relationship +2 reduced the incidence and delayed the development/progression } of already-initiated {\disease skin tumors } in {\subject high-risk hairless mice }. 
+These data suggest that topical application of {\food nondenatured soy extracts } {\relationship +1 could potentially reduce the incidence } of  {\disease skin cancer }.
+
+TITLE:
+Effect of soybean on breast cancer according to receptor status: a case-control study in Japan.
+
+ABSTRACT:
+These findings indicate that the protective effect of {\food soy } against {\disease breast cancer } risk {\relationship 0 differs by receptor status }.
+
+TITLE:
+Soy intake and breast cancer risk in Singapore Chinese Health Study.
+
+ABSTRACT:
+Using Cox regression and adjusting for age at interview, year of interview, dialect group, education, family history of breast cancer, age when periods became regular, parity, menopausal status, body mass index (BMI), n-3 fatty acid, and other covariates, we found {\disease breast cancer } risk {\relationship +2 was reduced significantly } in association with high {\food soy } intake. 
+These prospective findings suggest that approximately 10 mg of isoflavones per day, obtained in a standard serving of tofu, may have lasting beneficial effects against breast cancer development.
+
+TITLE:
+Isoflavones and gamma irradiation inhibit cell growth in human salivary gland cells.
+
+ABSTRACT:
+We studied the effects of isoflavones and irradiation on cell cycle in a human salivary gland cell line (HSG). Genistein and a soy isoflavone conjugate (NS) inhibited DNA synthesis. Cells deconjugated the glucoside form of isoflavones in NS to the aglycones genistein and daidzein. NS, genistein and IR increased phosphorylation of p53 and p21 CIP1 at serine 15 (phos-p53). Irradiation and NS also increased levels of p21 CIP1. In a cologenic survival assay, cells in log phase growth had high radio-sensitivity with 2 Gy causing a reduction in survival (SF2=0.45). Conclusion: {\protein isoflavones } and radiation {\relationship -1 may interact to sensitize }  {\disease cancer  } cells to radiation.
+
+TITLE:
+Isoflavones and the prevention of breast and prostate cancer: new perspectives opened by nutrigenomics.
+
+ABSTRACT:
+Epidemiological evidence together with preclinical data from animal and in vitro studies {\relationship +1 strongly support a correlation } between {\food soy } {\protein isoflavone } consumption and protection towards {\disease breast and prostate cancers }. The biological processes modulated by isoflavones, and especially by genistein, have been extensively studied, yet without leading to a clear understanding of the cellular and molecular mechanisms of action involved.
+
+TITLE:
+The combination of genistin and ipriflavone prevents mammary tumorigenesis and modulates lipid profile.
+
+ABSTRACT:
+The findings of this study imply that the combination of {\protein genistin } and {\protein ipriflavone } {\relationship +2 is effective in suppressing }  {\disease mammary methylnitrosurea-induced tumorigenesis } and also the {\disease lipid environment of the tumor cells that impact tumor growth or proliferation }. Further studies are needed to establish the optimal dose of genistin and ipriflavone, individually or in combination, for the prevention of mammary tumorigenesis.
+
+TITLE:
+Early life and adult exposure to isoflavones and breast cancer risk.
+
+ABSTRACT:
+{\food Soy } and red-clover {\protein isoflavones } are commonly consumed within the diet or as a dietary supplement due to a range of presumed beneficial health benefits. These {\protein isoflavones } {\relationship +1 are thought to protect against } {\disease heart diseases } as well as {\disease breast and other types of cancer }. Isoflavones are structurally similar to estrogens and may act as estrogen agonists or antagonists by binding to estrogen receptors. Because of an increased use of isoflavones in processed foods and dietary supplements as well as the greater consumption of soy products, dietary intakes of isoflavones are increasing in children and adolescents in North America. Estrogens are a known component of numerous hormone related cancers including breast cancer. It is with these facts in mind that we review the existing epidemiological and experimental animal studies for a resolution to a proposed {\relationship -1 correlation between increased }   {\protein isoflavone } consumption and {\disease breast cancer }. There is conflicting evidence from epidemiological, intervention and experimental animal studies regarding the chemopreventing effects of soy isoflavones in breast cancer. Isoflavones are weak estrogens and their effect depends upon the dose, time of exposure and species involved. It would, therefore, not be safe to indisputably accept soy or red-clover as a source of isoflavone resource to prevent breast cancer.
+
+TITLE:
+Soy isoflavone intake is not associated with the development of cedar pollinosis in adults.
+
+ABSTRACT:
+Although soy isoflavone has been suggested to have both immune-enhancing and immune-suppressive effects, the effects of {\food soy } {\protein isoflavone } intake on {\disease allergic disorders } {\relationship 0 are unclear }. 
+These data did not support an association between soy isoflavone intake and risk of cedar pollinosis.
+
+TITLE:
+Soy phytochemicals decrease nonsmall cell lung cancer growth in female athymic mice.
+
+ABSTRACT:
+In conclusion, we found that {\food soy } {\chemical phytochemicals } {\relationship +2 slow the in vivo growth } of {\disease NSCLC } xenografts; the modulation of the Akt-signaling pathway observed in tumors of SSE-treated mice may have a role in the activity observed. Our research provides further support for the concept that consumption of phytoestrogens may be effective in delaying lung cancer progression.
+
+TITLE:
+Effects of soy isoflavones on 17beta-estradiol-induced proliferation of MCF-7 breast cancer cells.
+
+ABSTRACT:
+Based on the results of in vitro-experiments in practically estrogen-free media and in the absence of estrogen-beta receptors, soy isoflavones have been suspected to enhance proliferation of MCF-7 breast cancer cells.
+Only at unphysiologically low estrogen levels isoflavones led to minor proliferation-enhancing effects. In contrast, at estradiol levels of &gt;20 pM, {\protein isoflavones } both tested directly and indirectly (metabolized) revealed significant anti-proliferative effects as well as in the proliferation and the gene chip assay. These findings emphasize the {\relationship +2 reported advantageous properties } of {\protein isoflavones } for {\subject postmenopausal women }.
+
+TITLE:
+Suppression of cancer invasiveness by dietary compounds.
+
+ABSTRACT:
+Tumor invasion and cancer metastasis are interrelated processes involving cell growth, cell adhesion, cell migration and proteolytic degradation of tissue barriers, which are mediated by aberrant intracellular signaling in cancer cells. Natural (green tea polyphenols, {\food soy } {\protein isoflavones }) or dietary compounds (mushroom G. lucidum) {\relationship +2 markedly decreased } {\gene AP-1 } and {\gene NF-kappaB } signaling and suppressed invasiveness of {\disease cancer cells }. This review will summarize alternative approaches for the inhibition of invasive behavior of cancer cells by dietary compounds, which can be considered in adjuvant or combination therapy for the prevention and treatment of cancer metastasis.
+
+TITLE:
+Saponins in tumor therapy.
+
+ABSTRACT:
+Saponins are plant glycosides with favorable anti-tumorigenic properties. Several saponins inhibit tumor cell growth by cell cycle arrest and apoptosis with IC50 values of up to 0.2 microM. We discuss diverse groups of saponins (dioscins, saikosaponins, julibrosides, {\food soy saponins }, ginseng saponins and avicins) investigated in relation to tumor therapy and focus on cellular and systemic mechanisms of tumor cell growth inhibition both in vitro and in vivo. The review also describes saponins in combination with conventional {\disease tumor } treatment strategies, which result in improved therapeutic success. Some combinations of saponins and {\drug anti-tumorigenic } drugs {\relationship +1 induce synergistic effects with potentiated growth inhibition }.
+
+TITLE:
+Soy isoflavones, estrogen therapy, and breast cancer risk: analysis and commentary.
+
+ABSTRACT:
+Overall, {\relationship 0 there is little clinical evidence to suggest } that {\protein isoflavones } will increase {\disease breast cancer } risk in {\subject healthy women } or worsen the prognosis of breast cancer patients. Although relatively limited research has been conducted, and the clinical trials often involved small numbers of subjects, {\relationship 0 there is no evidence } that {\protein isoflavone } intake increases {\disease breast tissue density } in pre- or postmenopausal women or increases {\disease breast cell proliferation } in {\subject postmenopausal women } with or without a history of {\disease breast cancer }. The epidemiologic data are generally consistent with the clinical data, showing no indication of increased risk.
+
+TITLE:
+[Isoflavones--an update on scientific data]
+
+ABSTRACT:
+This variation in the metabolism of {\food soy } {\protein isoflavones } {\relationship 0 might cause differences } in the beneficial effects of {\food soy } foods and {\protein isoflavones } and therefore this should be considered in science and practice.
+
+TITLE:
+Legume and isoflavone intake and prostate cancer risk: The Multiethnic Cohort Study.
+
+ABSTRACT:
+We found {\relationship 0 no significant risk reduction associated } with intake of total or specific {\protein isoflavones } for either total {\disease prostate cancer } or for nonlocalized or {\disease high-grade cancer }. The findings of our study suggest that legume intake is associated with a moderate reduction in prostate cancer risk and that the isoflavones in soy products are probably not responsible for this effect.
+
+TITLE:
+Effects of n-3 fatty acids on autoimmunity and osteoporosis.
+
+ABSTRACT:
+Recent studies show that reduced calorie intake and supplementation of diet with n-3 FA delays the onset of autoimmune renal disease, primarily, due to increased antioxidant enzyme activities, decreased NF-kappaB activation and decreased IL-1, IL-6 and TNF-alpha mRNA expression in the kidney tissue. Studies in rodents show that addition of n-3 FA and {\food soy } protein to diet {\relationship +1 affords protection against } {\disease bone loss } induced by ovariectomy in {\subject mice } due to NF-kappaB expression and decreased activation of osteoclasts.
+
+TITLE:
+Multi-targeted therapy of cancer by genistein.
+
+ABSTRACT:
+{\food Soy } {\protein isoflavones } have been identified as dietary components {\relationship +2 having an important role } in reducing the incidence of {\disease breast and prostate cancers } in Asian countries. {\protein Genistein }, the predominant {\protein isoflavone } found in {\food soy products }, {\relationship +2 has been shown to inhibit } the  {\disease carcinogenesis } in animal models. There is a growing body of experimental evidence showing that the inhibition of human cancer cell growth by genistein is mediated via the modulation of genes that are related to the control of cell cycle and apoptosis. It has been shown that {\protein  genistein } {\relationship +2 inhibits the activation } of {\gene NF-kappaB } and {\gene Akt } signaling pathways, both of which are known to maintain a homeostatic balance between cell survival and apoptosis. Moreover, genistein antagonizes estrogen- and androgen-mediated signaling pathways in the processes of carcinogenesis. Furthermore, {\protein genistein } {\relationship +1 has been found to have } {\chemical antioxidant } properties, and {\relationship +2 shown to be a potent inhibitor } of  {\disease angiogenesis and metastasis }. 
+
+TITLE:
+Daidzein-metabolizing phenotypes in relation to serum hormones and sex hormone binding globulin, and urinary estrogen metabolites in premenopausal women in the United States.
+
+ABSTRACT:
+In the absence of a {\food soy } intervention, we {\relationship 0 found no difference } in serum or urine hormone concentrations between producers and non-producers of equol or ODMA.
+
+TITLE:
+beta-Conglycinins among sources of bioactives in hydrolysates of different soybean varieties that inhibit leukemia cells in vitro.
+
+ABSTRACT:
+{\food Soybean } is a complex matrix containing several potentially bioactive components. 
+{\protein Isoflavones } and {\protein beta-conglycinin } {\relationship +2 positively contributed to the cytotoxicity } of soy on {\disease L1210 leukemia cells }. 
+In conclusion, the data demonstrated that {\protein beta-conglycinins }  {\relationsship +2 are among the major protein components that inhibit } {\disease leukemia } cell growth in vitro. Furthermore, it was feasible to differentiate soybean varieties on the basis of the biological effect of their components using a statistical model and a cell-based assay.
+
+TITLE:
+Phase II trial of isoflavone in prostate-specific antigen recurrent prostate cancer after previous local therapy.
+
+ABSTRACT:
+BACKGROUND: Data exist that demonstrate {\protein isoflavones' } {\relationship +1 potent antiproliferative effects } on {\disease prostate cancer } cells. We evaluated the efficacy of isoflavone in patients with PSA recurrent prostate cancer after prior therapy. We postulated that isoflavone therapy would slow the rate of rise of serum PSA. 
+Dietary intervention with {\protein isoflavone } supplementation {\relationship +1 may have biologic activity } {\subject in men } with biochemical recurrent {\disease prostate cancer } as shown by a decline in the slope of PSA. This study may lend support to the literature that nutritional supplements have biologic activity in prostate cancer and therefore, further studies with these agents in randomized clinical trials should be encouraged.
+
+TITLE:
+A combination of tomato and soy products for men with recurring prostate cancer and rising prostate specific antigen.
+
+ABSTRACT:
+{\food Tomato and soy products } are hypothesized to reduce the risk of prostate cancer or enhance efficacy of therapy. A study was completed to determine if men with active prostate cancer will adhere to a dietary intervention rich in tomato products and a soy protein supplement men (n = 41) with recurrent, asymptomatic prostate cancer were randomized among 2 groups:
+In conclusion, {\disease prostate cancer } {\subject patients } {\relationship +2 will consume diets rich in tomato products and soy } with excellent compliance and bioavailability of {\chemical phytochemicals }. Further studies combining tomato and soy foods to determine efficacy for prostate cancer prevention or management are encouraged.
+
+TITLE:
+Soy consumption reduces the risk of non-small-cell lung cancers with epidermal growth factor receptor mutations among Japanese.
+
+ABSTRACT:
+Epidermal growth factor receptor (EGFR) mutations play substantial roles in genesis and proliferation of non-small-cell lung cancers (NSCLCs). 
+In conclusion, {\food soy } consumption {\relationship +1 may exert a protective association } against the development of {\disease NSCLCs with EGFR mutations }, providing possible insights into mechanisms of their genesis.
+
+TITLE:
+Genistein differentially modulates androgen-responsive gene expression and activates JNK in LNCaP cells.
+
+ABSTRACT:
+{\protein Genistein }, the predominant isoflavone in {\food soy }, {\relationship 0 may be chemopreventive } in {\disease prostate cancer (CaP) }. It down-regulates the prostate-specific antigen (PSA) and androgen receptor (AR) in androgen responsive cells. However, the extent of the down-regulation and whether genistein has a general effect on all androgen responsive genes (ARGs) are unclear. We investigated the ability of genistein to modulate ARG expression by the synthetic androgen R1881 in LNCaP cells.
+
+TITLE:
+The role of early life genistein exposures in modifying breast cancer risk.
+
+ABSTRACT:
+Review of the existing literature suggests that consumption of {\food soy } foods or an exposure to a soy {\protein isoflavone genistein } during childhood and adolescence in {\subject women }, and before puberty onset in animals, {\relationship +1 reduces later } {\disease mammary cancer } risk.
+The focus is on changes in gene expression, such as those involving BRCA1 and PTEN.
+TITLE:
+Fructooligosaccharide and soy isoflavone suppress colonic aberrant crypt foci and cyclooxygenase-2 expression in dimethylhydrazine-treated rats.
+
+ABSTRACT:
+We conclude that the combination of FOS and {\food soy } {\protein isoflavones }  {\relationship +2 inhibits } {\disease colonic ACF } formation and  {\relationship +2 reduces } {\gene COX-2 } expression in {\subject DMH-treated rats }.
+
+TITLE:
+Effect of soyasapogenol A and soyasapogenol B concentrated extracts on HEP-G2 cell proliferation and apoptosis.
+
+ABSTRACT:
+These results show that the samples that contained mainly {\protein soyasapogenols A and B } {\relationship +2 showed a greater ability to inhibit proliferation } of cultured {\gene Hep-G2 } when compared to a total {\protein soyasaponin } extract that did not contain any {\protein soyasapogenols }.
+
+TITLE:
+Long-term effects of phytoestrogen daidzein on penile cavernosal structures in adult rats.
+
+ABSTRACT:
+{\protein Daidzein } is a {\food soy } {\protein isoflavone } with estrogenic activity present in plant-based food items and health foods and {\relationship +1 used as an alternative therapy } for {\disease cancer } and {\disease cardiovascular diseases }. 
+These results suggest that {\protein daidzein }, if ingested in a relatively large amount, {\relationship -1 could induce histopathologic alterations } in the {\subject penile cavernosal structures } characterized by an increase in the {\protein collagen } content and a reduction in smooth muscle cell and elastic fiber content, which might be suggestive of {\disease erectile dysfunction }.
+
+TITLE:
+UGT1A1 genetic polymorphisms, endogenous estrogen exposure, soy food intake, and endometrial cancer risk.
+
+ABSTRACT:
+Taken together, these data suggest that the G/G genotype (rs2070959) in the {\gene UGT1A1 } {\ralationship -1 gene may decrease the risk } of {\disease endometrial cancer } and that this effect is most evident among women with low levels of endogenous estrogen exposure or with low {\food soy } food intake.
+
+TITLE:
+Natural and synthetic agents targeting inflammation and angiogenesis for chemoprevention of prostate cancer.
+
+ABSTRACT:
+Prostate cancer is the most common cancer in men and one of the leading causes of cancer-related deaths in Western countries. The extraordinary biological heterogeneity, the increasing incidence of this disease, and the presence of putative premalignant conditions make prostate cancer a crucial pathology to study and test pharmacological or nutritional chemopreventive strategies. It has been demonstrated that the incidence of prostate cancer is lower in Asian people, and that it increases in Asian men living in Western countries; these data point to a pivotal role of diet in the onset of prostate cancer. A large amount of work has been done in investigating chemopreventive properties of dietary compounds widely used in Asian countries (i.e. {\food soy }, {\food soybeans }, green tea, fish) in respect of the oxidants- and meat-rich diet typical of Western people, particularly of central and northern Europe. Some dietary products {\relationship +1 appear promising as chemo-preventive agents } for {\disease prostate cancer }, because they display both {\chemical anti-oxidant } and {\chemical anti-inflammatory } activity - and inflammation is crucial for the aetiology of {\disease adeno-carcinoma of the prostate }. There is increasing evidence for close correlation between inflammation, the microenvironment and tumour-associated neo-angiogenesis causing the adverse outcomes of prostate cancer. It may thus be useful to develop new strategies to couple the treatment of inflammation-related prostate cancer and the generation of angiopreventive or antiinflammatory molecules to prevent this disease. The search for compounds with few or no adverse effects - particularly cardiovascular - as compared with the agents currently in use is therefore of greatest relevance.
+
+TITLE:
+Plasma isoflavone level and subsequent risk of breast cancer among Japanese women: a nested case-control study from the Japan Public Health Center-based prospective study group.
+
+ABSTRACT:
+This nested case-control study {\relationship -1 found an inverse association } between plasma {\protein genistein } and the risk of {\disease breast cancer } in Japan.
+
+TITLE:
+Global gene expression profiles induced by phytoestrogens in human breast cancer cells.
+
+ABSTRACT:
+The nutritional intake of {\protein phytoestrogens }  {\relationship +1 seems to reduce the risk } of {\disease breast cancer } or other {\disease neoplastic diseases }. However, these epidemiological findings remain controversial because low doses of {\protein phytoestrogens }, achievable through {\food soy-rich diets }, {\relationship -2 stimulate the proliferation of estrogen-sensitive } {\disease tumor cells }. 
+
+TITLE:
+Dietary soy and tea combinations for prevention of breast and prostate cancers by targeting metabolic syndrome elements in mice.
+
+ABSTRACT:
+The prevalence of metabolic syndrome is high and is increasing in parallel with increasing incidences of breast and prostate cancers. The combination of {\food soy with tea } {\relationship +1 was shown to have synergistic effects on preventing } {\disease breast and prostate tumors }, but the effects of soy and tea combinations on metabolic syndrome-related elements have not been investigated. 
+
+TITLE:
+Dietary soy protein inhibits DNA damage and cell survival of colon epithelial cells through attenuated expression of fatty acid synthase.
+
+ABSTRACT:
+Dietary intake of {\food soy protein } {\relationship +2 decreases tumor incidence } in {\subject rat models } of chemically induced {\disease colon cancer }. We hypothesized that decreased expression of {\gene fatty acid synthase (FASN) } underlies, in part, the tumor-preventive effects of {\food soy protein }, since FASN overexpression characterizes early {\disease tumorigenesis }.
+
+TITLE:
+Pharmacogenomic profile of soy isoflavone concentrate in the prostate of Nrf2 deficient and wild-type mice.
+
+ABSTRACT:
+The involvement of {\gene Nrf2-a bZip } transcription factor in {\food soy } {\protein isoflavones } {\relationship +1 induced protection against } {\disease oxidative stress } and {\disease cancer } has been reported. To gain better insight into the role of Nrf2 in {\disease prostate cancer } chemoprevention by soy isoflavones, we examined the pharmacogenomics and gene expression profiles elicited by soy isoflavones in the prostates of {\gene C57BL/6J/Nrf2(-/-) } and  {\gene C57BL6J/Nrf2(+/+) } wildtype. 
+
+TITLE:
+Radiosensitization of prostate cancer by soy isoflavones.
+
+ABSTRACT:
+A trend in investigating the use of several nutritional compounds for cancer chemoprevention has revealed that phytochemicals demonstrated anti-cancer properties by inhibiting signal transduction pathways essential for cancer cell proliferation, tumor growth, invasion and metastasis. Emerging evidence suggests that the anti-proliferative and anti-oxidant effects of some of these dietary agents could be utilized to both potentiate the response of cancer cells to radiotherapy and reduce radiation-induced toxicity to normal surrounding tissues. Using pre-clinical orthotopic models of {\disease prostate cancer }, studies on the combination of {\food soy } {\protein isoflavones } with tumor irradiation {\relationship +1 demonstrate a synergistic anti-cancer effect } between these two modalities and emphasize the potential and safety of dietary factors to improve conventional radiotherapy for a better control of {\disease tumor growth } and metastasis. The goal of this review is to focus on the role of soy isoflavones as potent radiosensitizers for prostate cancer and other malignancies. We will discuss molecular pathways regulated by soy isoflavones that inhibit survival pathways activated by radiation and ultimately drive the cells to cell death both in vitro and in vivo in pre-clinical models.
+
+TITLE:
+Equol status modifies the association of soy intake and mammographic density in a sample of postmenopausal women.
+
+ABSTRACT:
+There were no significant independent associations of equol status or soy intake with percent density, but the interaction between these factors was significant (P &lt; 0.01). Among {\subject equol producers }, those with weekly {\food soy } intake {\relationship +1 had lower percent density } (30.7% in weekly consumers of soy versus 38.9% in others; P = 0.08); among {\subject nonproducers }, weekly {\food soy } intake {\relationship -1 was associated with higher percent density } (37.5% in weekly soy consumers versus 30.7% in others; P = 0.03). Results suggest that equol producers and nonproducers may experience different effects of dietary soy on breast tissue.
+
+TITLE:
+Soy isoflavones decrease the catechol-O-methyltransferase-mediated inactivation of 4-hydroxyestradiol in cultured MCF-7 cells.
+
+ABSTRACT:
+Our study demonstrates for the first time that {\food soy } {\protein isoflavones } at hormonally active concentrations {\relationship +1 cause a significant reduction } of both {\gene COMT } mRNA levels and COMT activity as well as of the methylation of 4-HO-E2. Experiments using the estrogen receptor (ER) antagonist ICI 182,780 support a role of the ER in the isoflavone-induced down-regulation of COMT expression. Thus, this study not only demonstrates that hormonally active concentrations of {\food soy } {\protein isoflavones } {\relationship +1 inhibit the detoxification of catechols } in this {\subject human } {\disease breast cancer } cell line but also implies that diet might influence COMT activity to a greater extent than heretofore recognized.
+
+TITLE:
+Epidemiology of soy exposures and breast cancer risk.
+
+ABSTRACT:
+Thus, the evidence to date, based largely on case-control studies, suggest that {\food soy } food intake in the amount consumed in {\subject Asian populations } {\relationship +1 may have protective effects } against {\disease breast cancer }.
+
+TITLE:
+Modulation of gene methylation by genistein or lycopene in breast cancer cells.
+
+ABSTRACT:
+These data show for the first time that the {\food tomato } carotenoid {\protein lycopene } {\relationship +1 has direct DNA demethylating activity }. In summary, both {\protein genistein } and {\protein lycopene }, at very low, dietarily relevant concentrations {\relationship +1 can potentially mitigate } {\disease tumorigenic } processes via promoter methylation modulation of {\subject gene expression }.
+
+TITLE:
+Antileukemic activity of genistein, a major isoflavone present in soy products.
+
+ABSTRACT:
+{\food Soy } {\relationship +1 has been used in traditional medicine for the treatment } of various diseases, including {\disease cancer }. The {\protein isoflavones } present in soy {\relationship +1 have been shown in animal models to have cancer-preventing activity }. However, the therapeutic effects of {\protein isoflavones } against {\disease cancer } {\relationsship 0 are still unclear }. We have evaluated the in vitro and in vivo antileukemic activity of genistein (1), a major isoflavone present in soy. We observed that it produced a dose- and time-dependent antineoplastic activity against myeloid and lymphoid leukemic cell lines. In addition, genistein treatment of the leukemic cells reactivated tumor suppressor genes that were silenced by aberrant DNA methylation. A genistein-enriched diet produced a moderate, but significant, antileukemic effect in mice. The limited extent of this in vivo response may have been due to the rapid metabolic inactivation of genistein in mice. Due to the longer half-life of genistein in humans, a soy-enriched diet has the potential to produce plasma levels of this isoflavone in the range of the concentrations used in vitro that produced an antileukemic activity.
+
+TITLE:
+Diet and prostate cancer risk reduction.
+
+ABSTRACT:
+Prostate cancer is the most commonly diagnosed malignancy in males. The current body of literature supports the role of nutritional products in the reduction of prostate cancer. This review critically addresses the natural products with the greatest {\relationship +1 potential to reduce the risk } of {\disease prostate cancer }, including lycopene, vitamin E, selenium, vitamin D, {\food soy and green tea }. The toxicities of the dietary products are addressed. The direction of future studies lies in clarifying the effects of these products and exploring the biological mechanisms responsible for the prevention of prostate cancer.
+
+TITLE:
+Plasma isoflavones and fibrocystic breast conditions and breast cancer among women in Shanghai, China.
+
+ABSTRACT:
+{\protein Isoflavone } exposure {\relationship 0 was inversely associated } with {\disease fibrocystic breast } conditions and {\disease breast cancer }, and the results suggest that effects on cancer risk occur early in carcinogenesis.
+
+TITLE:
+Rats fed soy protein isolate (SPI) have impaired hepatic CYP1A1 induction by polycyclic aromatic hydrocarbons as a result of interference with aryl hydrocarbon receptor signaling.
+
+ABSTRACT:
+Consumption of {\food soy } diets {\relationship +2 has been found to reduce } {\disease cancer } incidence {\subject in animals } and  {\relationship +1 is associated with reduced }  {\disease cancer } risk {\subject in humans }. Previously, we have demonstrated that female Sprague-Dawley rats fed purified AIN-93G diets with soy protein isolate (SPI) as the sole protein source had reduced {\gene CYP1A1 } induction and basal aryl hydrocarbon receptor (AhR) levels relative to those fed the same diet containing casein (CAS). In the present study, the molecular mechanisms underlying reduced AhR expression have been studied. 
+
+TITLE:
+Association of dietary intake of soy, beans, and isoflavones with risk of cerebral and myocardial infarctions in Japanese populations: the Japan Public Health Center-based (JPHC) study cohort I.
+
+ABSTRACT:
+{\food Soy } and {\protein isoflavones } {\relationship +1 have been proposed to reduce the risk } of {\disease cardiovascular risk factors }, but their potential as preventatives for cardiovascular disease remains uncertain. We investigated the association of soy and isoflavone intake with risk of {\disease cerebral and myocardial infarctions (CI and MI). }
+High {\protein isoflavone } intake {\relationship +1 was associated with reduced risk } of  {\disease CI } and {\disease MI } in Japanese women. The risk reduction was pronounced for {\subject postmenopausal women. }
+
+TITLE:
+Genistein affects HER2 protein concentration, activation, and promoter regulation in BT-474 human breast cancer cells.
+
+ABSTRACT:
+The HER2 proto-oncogene, a member of the epidermal growth factor receptor family, is overexpressed in 20-30% of breast cancers. Genistein, the main {\food soy } isoflavone, interacts with estrogen receptors (ER) and it {\relationship +2 is also a potent } {\protein tyrosine } kinase inhibitor. Previously, our laboratory found that {\protein genistein } {\relationship +1 delayed } {\disease mammary tumor } onset in {\subject transgenic mice } that overexpress {\gene HER2 } gene. 
+In conclusion, {\protein genistein } at &gt; or =1 microM inhibited {\gene HER2 } protein expression, phosphorylation, and promoter activity through an ER-independent mechanism. In the presence of ERalpha, genistein mimicked E2 and inhibited HER2 protein phosphorylation. These data support genistein's chemo-prevention and potential chemo-therapeutic roles in breast cancer.
+
+TITLE:
+Inhibition of cellular proliferation by the genistein metabolite 5,7,3',4'-tetrahydroxyisoflavone is mediated by DNA damage and activation of the ATR signalling pathway.
+
+ABSTRACT:
+The cellular actions of {\protein genistein }, and its in vivo metabolites, {\relationship +1 are believed to mediate the decreased risk } of {\disease breast cancer } associated with high  {\food soy } consumption. The genistein metabolite, 5,7,3',4'-tetrahydroxyisoflavone (THIF), induced G2-M cell cycle arrest in T47D tumorigenic breast epithelial cells via a mechanism involving the activation of ataxia telangiectasia and {\gene Rad3 }-related kinase (ATR) via its phosphorylation at {\gene Ser428 }.
+
+TITLE:
+Soya--the medicine food product.
+
+ABSTRACT:
+{\food Soya }, cultivated for more than 3000 years, is both a drug and a food product. It has numerous nutritional benefits, given by its content of {\protein isoflavones }, essential amino acids, fibers, poly-unsaturated fatty acids, vitamins and minerals. The use of {\food soy } {\relationship +2 reduces the risk } of {\disease cardiovascular diseases }: {\relationship +2 it has an antioxidant effect }, reduces cholesterol levels and modulates the endothelial function; the {\food soy } foods, rich in {\protein isoflavones },  {\relationship +2 reduce the risk } of {\disease breast cancer }; {\subject men } with {\disease heredocolateral cancer } antecedents or with minimal increase of prostate antigen  {\relationship +2 must consider the consumption } of {\food soy } and soy foods. {\food Soy } and soy foods  {\relationship +2 play an important role in reducing the incidence } of {\disease osteoporosis } and controlling the pre- and postmenopausal symptoms; the {\food soy } ingestion  {\relationship +2 has benefic metabolic effects } in patients with {\disease Diabetes Mellitus } and overweight. Taking into consideration the nutritional profile of soy, the nutritionists should encourage the population to consume more soy and soy foods. Nevertheless, long term studies are needed to discover a possible "dark side" of soy consumption. Among the most popular soy foods we mention: soymilk, soy cheese (tofu), soy meat (pie, salami, textured soy in granule form). Most of the products are soy flour derivatives, while tofu is obtained by curdling soymilk.
+
+TITLE:
+A prospective study of vegetarianism and isoflavone intake in relation to breast cancer risk in British women.
+
+ABSTRACT:
+Breast cancer rates are low in many Asian populations and it has been suggested that diets low in animal products and/or high in soy foods may reduce risk for the disease.
+In summary, in a {\subject population of British women } with heterogeneous diets, we {\relationship 0 found no evidence } for a strong association between {\food vegetarian diets } or dietary {\protein isoflavone } intake and risk for {\disease breast cancer }.
+
+TITLE:
+Control of peripheral benzodiazepine receptor-mediated breast cancer in rats by soy protein.
+
+ABSTRACT:
+{\food Soy } protein {\relationship +2 is known to have } {\disease breast tumor } suppressing activity. The expression of peripheral {\protein benzodiazepine receptors (PBRs) }, currently renamed as {\protein translocator protein (TSPO) } and their associated functions, such as nuclear cholesterol uptake and content also have been shown to be increased in breast cancer. Here we investigated whether the breast tumor suppressing effects of soy protein is mediated by down-regulation of PBR expression and function.
+These data suggest that {\food soy } protein {\relationship +1 inhibits } {\disease breast tumor } development by decreasing the expression of the {\gene tumor-promoting } gene, which encodes PBRs.
+
+TITLE:
+Lycopene and soy isoflavones in the treatment of prostate cancer.
+
+ABSTRACT:
+Dietary intake of lycopene and {\food soy {\relationnship 0 has been associated } with a lower risk of {\disease prostate cancer }. In vitro studies with lycopene and {\protein genistein }, a soy {\protein isoflavone }, {\relationship +1 have shown induction of apoptosis and inhibition of cell growth } in androgen-sensitive (LNCaP) and androgen-independent (PC3 and VeCaP) {\disease prostate cancer } cell lines.
+The data suggest that lycopene and soy {\protein isoflavones } {\relationship +1 have activity } in {\disease prostate cancer } patients with PSA relapse disease and may delay progression of both hormone-refractory and hormone-sensitive prostate cancer. However, there may not be an additive effect between the 2 compounds when taken together. Future studies are warranted to further investigate the efficacy of lycopene and soy isoflavones in prostate cancer as well as the mechanism of potential negative interaction between them.
+
+TITLE:
+Soy isoflavone genistein in prevention and treatment of prostate cancer.
+
+ABSTRACT:
+Dietary habits and incidence of {\disease prostate cancer } (PCa) are very different in several parts of the world. Among the differences between Eastern and Western diets is the greater intake of {\food soy } in the Eastern cultures. This might be one factor contributing to a lower incidence of PCa in Asian men. Many studies using PCa cells and animal studies of chemical carcinogenesis have shown that a wide range of dietary compounds have cancer chemopreventive potential. Therefore, the interest in nutrition-based approaches for prevention and treatment of PCa is increasing. We reviewed all experimental preclinical in vitro and in vivo data as well as clinical trials performed with soy isoflavone genistein for prevention and treatment of PCa. The preclinical data for {\protein genistein } presented in this review {\relationship +2 show a remarkable efficacy } against PCa {\subject cells in vitro } with molecular targets ranging from cell cycle regulation to induction of apoptosis. In addition, seemingly well-conducted animal experiments support the belief that genistein might have a clinical activity in human cancer therapy. However, it is difficult to make definite statements or conclusions on clinical efficacy of genistein because of the great variability and differences of the study designs, small patient numbers, short treatment duration and lack of a standardized drug formulation. Although some results from these genistein studies seem encouraging, reliable or long-term data on tumor recurrence, disease progression and survival are unknown. The presented data potentially allow recommending patients the use of genistein as in soy products in a preventive setting. However, at present {\relationship 0 there is no convincing clinical proof or evidence } that {\protein genistein } might be useful in  {\disease PCa } therapy.
+
+TITLE:
+Studies on the anti-tumor activities of the soy isoflavone daidzein on murine neuroblastoma cells.
+
+ABSTRACT:
+Daidzein (4',7-dihydroxyisoflavone) and genistein (4',5,7-trihydroxyisoflavone) are two major isoflavones found predominantly in {\food soy beans }, as well as in certain traditional Chinese medicinal herbs and tea leaves. In the past decade, there have been extensive studies on the anti-tumor effects of genistein on cancers of the breast, prostate and colon in humans. However, the anti-tumor effects of daidzein on neuronal cancer cells and its action mechanisms remain poorly understood. In this study, daidzein was shown to inhibit the proliferation of a number of murine and human neuroblastoma cell lines in vitro. Using the murine neuroblastoma Neuro-2a (BU-1) cells as the cell model, daidzein was also found to prevent the cell cycle progression to G2/M phase and induced apoptosis of the neuronal tumor cells, as measured by flow cytometry and gel electrophoresis for fragmented DNA respectively. Taken together, our results showed that {\protein daidzein } {\relationship +1 could exert pleiotropic effects } on the {\subject murine neuroblastoma cells }, including inhibition of cell proliferation, modulation of cell cycle check point regulation, and triggering of neuronal cell apoptosis.
+
+TITLE:
+Fruits, vegetables, soy foods and breast cancer in pre- and postmenopausal Korean women: a case-control study.
+
+ABSTRACT:
+Our study suggests that high intake of some fruits, vegetables, and {\food soybeans } {\relationship +1 may be associated with a reduced  } {\disease breast cancer } risk.
+
+TITLE:
+Soy protein isolate increases urinary estrogens and the ratio of 2:16alpha-hydroxyestrone in men at high risk of prostate cancer.
+
+ABSTRACT:
+Increased urinary E2 excretion and 2:16 OH-E1 ratio in {\subject men } consuming {\food soy } protein isolate {\relationship +1 are consistent with studies } in postmenopausal women and suggest that soy consumption {\relationship +1 may be beneficial } in men at high risk of progressing to advanced {\disease prostate cancer } as a result of effects on endogenous estrogen metabolism.
+
+TITLE:
+Interaction of soy food and tea consumption with CYP19A1 genetic polymorphisms in the development of endometrial cancer.
+
+ABSTRACT:
+The association of single nucleotide polymorphisms rs1065779, rs752760, and rs1870050 with {\disease endometrial cancer } was modified by tea consumption (p(interaction) &lt; 0.05) {\relationship 0 but not by } soy {\protein isoflavone } intake. The authors' findings suggest that tea polyphenols may modify the effect of CYP19A1 genetic polymorphisms on the development of endometrial cancer.
+
+TITLE:
+Soy-derived isoflavones inhibit the growth of adult T-cell leukemia cells in vitro and in vivo.
+
+ABSTRACT:
+Adult T-cell leukemia occurs in human T-lymphotropic virus type I-infected individuals and is endemic to the south-western area of Kyushu in Japan. In this communication, we examined the effect of soy isoflavones on the growth of adult T-cell leukemia cells in vitro and in vivo. {\subject In the in vitro study },  {\protein daidzein } and {\protein genistein } but not glycitein {\relationship +2 significantly inhibited the proliferation } of {\gene ED-40515 } and Hut102 cells in a dose-dependent manner. Among the isoflavones studied, genistein had the highest growth-inhibitory effect; however, genistein did not exert an apparent growth-inhibitory effect on Jurkat and Molt-4 cells, which were non-adult T-cell leukemia cells. Genistein prevented the G(1)/S or G(2)/M transition at 3 and 10 or 30 microM, respectively. Genistein upregulated p21 protein expression together with p53 accumulation. In addition, treatment with 30 microM genistein strongly induced phosphorylation of checkpoint kinase (CHK) 2 and p53 at serines 15, 20 and 37. Caffeine, an inhibitor of ataxia-telangiectasia mutated protein kinase, alleviated the genistein-induced p53 and CHK2 phosphorylation, suggesting the involvement of DNA damage at 30 microM. However, marked phosphorylation of CHK2 and p53 could not be detected at 3 and 10 microM genistein. These data indicate that genistein has biphasic growth-inhibitory properties. {\subject The in vivo studies } demonstrated that {\food soy-derived } {\protein isoflavones } {\relationship +2 significantly inhibit } {\gene ED-40515 } cell growth and infiltration into various organs in non-obese diabetic severe combined-immunodeficiency common gamma-chain knockout mice. Taken together, it is evident that {\food soy } {\protein isoflavones } {\relationship +1 might serve as a promising compound for the treatment } of adult {\disease T-cell leukemia }.
+
+TITLE:
+Commercial soy milk enhances the development of 7,12-dimethylbenz(a)anthracene-induced mammary tumors in rats.
+
+ABSTRACT:
+Our results suggest that commercial {\food soy milk } {\realtionship -2 enhanced the development of DMBA-induced } {\disease mammary tumors } {\subject in rats }. Thus, careful consideration should be given when explaining the beneficial effects of soy food.
+
+TITLE:
+Nutritional modulation of terminal end buds: its relevance to breast cancer prevention.
+
+ABSTRACT:
+Findings with experimental rodent models reveal that exposures to dietary factors during the in utero and pubertal periods when the mammary gland is undergoing extensive modeling and re-modeling, alter susceptibility to develop mammary tumors. Similar observations have been made in humans: {\subject childhood exposure } to  {\protein genistein } in {\food soy } or to some other bioactive food components {\relationship +2 reduces later } {\disease breast cancer risk }, although they {\relationship 0 may have no effect } if consumed during {\subject adulthood }. Thus, food components may be more effective in affecting cancer risk in some periods of life than others. 
+
+TITLE:
+Isoflavonoid-based bone-sparing treatments exert a low activity on reproductive organs and on hepatic metabolism of estradiol in ovariectomized rats.
+
+ABSTRACT:
+The use of {\food soy } {\protein isoflavones } is a potential alternative to hormone replacement therapy in post-menopausal bone-loss prevention. Nevertheless, phytoestrogens can target other organs and may disrupt cell proliferation, or could modify endogenous steroid hormone metabolism. These mechanisms {\relationship -1 could be linked to an increased risk } of developing {\disease cancer }.
+
+TITLE:
+Effects of a phytoestrogen-containing soy extract on the growth-inhibitory activity of ICI 182 780 in an experimental model of estrogen-dependent breast cancer.
+
+ABSTRACT:
+The study reported here was designed to determine whether a phytoestrogen-containing soy extract (SSE) could negate/overwhelm the inhibitory effects of ICI 182 780 on the growth of estrogen-sustained human breast cancer xenografts (MCF-7), in ovariectomized athymic mice.
+In conclusion, results from this study {\relationship -1 raise concerns about the consumption } of {\protein isoflavone } supplements in conjunction with ICI 182 780 therapy, {\subject in postmenopausal women } with estrogen-dependent {\disease breast cancer }.
+
+TITLE:
+Dietary isoflavones may protect against prostate cancer in Japanese men.
+
+ABSTRACT:
+We examined associations between nutritional and other lifestyle factors and the prevalence of prostate cancer in a case-control study of Japanese men. Two hundred patients and 200 age-matched controls (+/-5 y) were selected from 3 geographic areas of Japan. BMI, physical activity, occupation, family history of prostate cancer, and medical history were not associated with prostate cancer risk. Isoflavones and their aglycones (genistein and daidzein) were significantly associated with decreased risk. The odds ratio for the highest category (&gt; or = 89.9 mg/d) compared with the lowest category (&lt;30.5 mg/d) of isoflavone intake was 0.42 (95% CI = 0.24-0.72) and the linear trend was significant (P &lt; 0.01). PUFA, (n-6) fatty acids, and magnesium were significantly associated with decreased risk but not after adjustment for isoflavone intake. Isoflavone intake was correlated with the intake of PUFA (r = 0.68, P &lt; 0.001), (n-6) fatty acids (r = 0.69, P &lt; 0.001), and magnesium (r = 0.56, P &lt; 0.001), because {\food soy } products contain high levels of these nutrients. On the other hand, {\protein isoflavone } {\relationship +2 significantly decreased the risk } of {\disease prostate cancer } regardless of adjustment by PUFA, (n-6) fatty acids or magnesium. In conclusion, our findings indicate that {\protein isoflavones } {\relationship +1 might be an effective dietary protective factor } against {\disease prostate cancer } {\subject in Japanese men }.
+
+TITLE:
+Combined supplementation of soy and garlic modulate biochemical parameters of 7,12-dimethylbenz[alpha]anthracene induced mammary cancer in female albino rats.
+
+ABSTRACT:
+The study was designed to investigate the chemoprotective effect of Combined Supplementation of soy and garlic on 7,12-dimethylbenz[alpha]anthrance (DMBA) induced {\disease mammary cancer } in female Albino rats. Animals (eighty rats) where equally divided into four groups, (twenty rats each). 
+Combined Supplementation of Soy and Garlic treatment altered the above mentioned biochemical parameters towards normal values. Present findings indicate that combined supplementation of {\food soy and garlic } {\relationship +1 got more marked effect } {\subject on DMBA infused rats } as compared to a group of rats received only garlic treatment.
+
+TITLE:
+Consumption of soy foods and the risk of breast cancer: findings from the Japan Collaborative Cohort (JACC) Study.
+
+ABSTRACT:
+This prospective study suggests that consumption of {\food soy } food {\relationship 0 has no protective effects } against {\disease breast cancer }. Further large-scale investigations eliciting genetic factors may clarify different roles of various soybean-ingredient foods on the risk of breast cancer.
+
+TITLE:
+Isoflavones--safe food additives or dangerous drugs?
+
+ABSTRACT:
+The sales volume of products containing isoflavone has increased since the publication of the Women's Health Initiative. The many apparently contradictory results published on the effects of isoflavones on a variety of estrogen-regulated organs point to both beneficial as well as adverse effects on human health. It is of particular importance that psychovegetative climacteric complaints such as hot flushes are, if at all, only slightly influenced by isoflavones. The substances appear to have weak anti-osteoporotic effect. Their anti-atherosclerotic action is debatable, as not all authors find any beneficial effect on lipids. Most importantly, there is dispute as to whether isoflavones derived from soy or red clover have negative, positive or any effect at all on the mammary gland or endometrium. It is beyond any doubt } that {\food soy } products {\relationship +1 may have cancer preventing properties in a variety of organs } including the mammary gland. However, these properties may only be exerted if the developing organ was under the influence of isoflavones during childhood and puberty. This may also explain the often quoted "Japanese Phenomenon", the fact that breast cancer occurs to a lesser extent in Japanese women. When administered to isoflavone "inexperienced" women at the time of menopause, the {\protein phytoestrogens } appear to share the same effects as estrogen used in classical preparations for hormone replacement therapy, i.e. they {\relationship -1 may stimulate the proliferation } of {\disease endometrial and mammary gland tissue } with at present unknown and unpredictable risk to these organs. Therefore, the following question arises for the clinician: Why should soy or red clover products containing isoflavone be recommended, if the positive effects are only negligible but the adverse effects serious?
+
+TITLE:
+Isoflavone-rich soy protein isolate suppresses androgen receptor expression without altering estrogen receptor-beta expression or serum hormonal profiles in men at high risk of prostate cancer.
+
+ABSTRACT:
+The purpose of this study was to determine the effects of {\food soy } protein isolate consumption on circulating hormone profiles and hormone receptor expression patterns {\subject in men at high risk for developing advanced prostate cancer }. 
+Although the effects of SPI- consumption on {\protein estradiol } and {\protein androstenedione } are difficult to interpret and the clinical relevance is uncertain, these data show that AR expression in the prostate is suppressed by {\food soy } protein isolate consumption, {\relationship +1 which may be beneficial in preventing } {\disease prostate cancer. }
+
+TITLE:
+Chemoprevention of rat prostate carcinogenesis by soy isoflavones and by Bowman-Birk inhibitor.
+
+ABSTRACT:
+Epidemiology studies suggest that {\food soy } consumption {\relationship +1 confers protection } against {\subject human } {\disease prostate cancer }. To identify the soy component(s) that may be responsible for this chemopreventive activity, studies were conducted to determine the influence of a soy isoflavone mixture (PTI G-2535; 45% genistein, 22% daidzein, 2% glycitein) and a soy-derived protease inhibitor (Bowman-Birk Inhibitor Concentrate; BBIC) on prostate carcinogenesis in rats.
+
+TITLE:
+Dietary habits and risk of ovarian cancer death in a large-scale cohort study (JACC study) in Japan.
+
+ABSTRACT:
+From the results of this cohort study, it was suggested that high intakes of dried or salted fish and Chinese cabbage were potential risk factors of {\disease ovarian cancer } death. In contrast, however, a high intake of {\food soy bean curd (tofu) } {\relationship +1 might have preventive effects } against the risk.
+
+TITLE:
+Intake of fruits, vegetables, and soy foods in relation to breast cancer risk in Korean women: a case-control study.
+
+ABSTRACT:
+We conducted a case-control study to examine the relationship between fruit, vegetable, and soy food intake and breast cancer risk in Korean women. 
+Our data suggest that increased intake of some fruits, vegetables, and {\food soy } foods {\relationship +1 may be associated } with {\disease breast cancer } risk reduction in  {\subject Korean women }.
+
+TITLE:
+Associations between soy, diet, reproductive factors, and mammographic density in Singapore Chinese women.
+
+ABSTRACT:
+Although the evidence is not completely consistent, soy intake has been inversely associated with {\disease breast cancer } risk, and the strongest results have been observed in certain Asian populations. 
+We found no evidence that high fiber, fruit, or vegetable intake has protective effects on mammographic density. Our results suggest that the effect of {\food soy } intake on percent {\disease mammographic density } {\relationship 0 is moderate but possibly of clinical relevance }.
