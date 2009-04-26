@@ -5,24 +5,21 @@
         <title></title>
     </head>
     <body>
-        <form id="dataform" enctype="multipart/form-data" method="post" action="getData.php">
-            <table id="table1" align="left" width="700">
-                <tr>
-                    <td colspan="4" align="left"><font color="red"><?php echo $message; ?>
-                    </font></td>
-                </tr>
-                <tr>
-                    <td align="left" width="170"><b>Select File:</b></td>
-                    <td colspan="3">
-                        <input type="file" size="70" name="file" title="Select File">
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="4" align="center">
-                        <input type="submit" value="Submit" name="submit" title="Submit">
-                    </td>
-                </tr>
-            </table>
-        </form>
+        <table id="message" align="center" width="900">
+            <tr>
+                <td align="center" colspan="3">
+                    <h3>Please choose feature clicking in one of the links available</h3>
+                </td>
+            </tr>
+            <tr>
+                <td align="center"><font color="red"><?php echo $message; ?>
+                </font></td>
+            </tr>
+            <tr>
+                <td align="center" width="300">
+                    <a target="_blank" href=<?php $_SERVER['DOCUMENT_ROOT']?>"/NaiveBayesian/populateDB/populateDB.php">IMPORT DATA FROM FILE</a>
+                </td>
+            </tr>
+        </table>
     </body>
 </html>
