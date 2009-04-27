@@ -45,8 +45,9 @@
         $cancersArray = indexData($abstract,$cancersArray);
         $entry->__set("cancers", $cancersArray);
 
-        saveToDB($entry);
-
+        if(count($entry->__get("foods")) > 0 || count($entry->__get("relationships")) > 0 || count($entry->__get("cancers")) > 0){
+            saveToDB($entry);
+        }
     }
 
     function saveToDB($entry){
@@ -58,7 +59,7 @@
                   '".$entry->__get("abstractNumber")."','".$entry->__get("content")."')";
 
         //execute connection with DB
-        mysql_query($query) or die('Error Inserting abstract');
+        mysql_query($query) or die('Error Inserting abstract: '.$entry->__get("content"));
 
         $query = "SELECT ABSTRACTID FROM ABSTRACTS WHERE NUMBER = ".$entry->__get("abstractNumber");
 

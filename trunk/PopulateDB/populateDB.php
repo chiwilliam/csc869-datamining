@@ -12,9 +12,15 @@
                     </font></td>
                 </tr>
                 <tr>
-                    <td align="left" width="170"><b>Select File:</b></td>
+                    <td align="left" width="170"><b>Select William's File:</b></td>
                     <td colspan="3">
-                        <input type="file" size="70" name="file" title="Select File">
+                        <input type="file" size="70" name="fileWilliam" title="Select File">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left" width="170"><b>Select Kleber's File:</b></td>
+                    <td colspan="3">
+                        <input type="file" size="70" name="fileKleber" title="Select File">
                     </td>
                 </tr>
                 <tr>
