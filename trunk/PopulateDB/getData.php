@@ -13,10 +13,12 @@
     $message = "";
 
     //check if file was selected
+    //William's files
     if(isset($_FILES['fileWilliam'])){
 
         $file = $_FILES['fileWilliam'];
 
+        //if file contains data
         if($file['size'] > 0){
 
             $abstracts = array();
@@ -25,17 +27,21 @@
             $abstracts = file($file["tmp_name"], FILE_IGNORE_NEW_LINES | FILE_TEXT | FILE_SKIP_EMPTY_LINES);
             $abstractNumber = 0;
 
+            //delete old database records
             deleteOldRecords();
 
+            //for each abstract
             for ($i=0; $i<count($abstracts);$i++){
 
                 $abstract = "";
+                //build abstract from file
                 if($abstracts[$i] == "ABSTRACT:\r"){
                     $i++;
                     while($abstracts[$i] != "TITLE:\r" && $i < count($abstracts)){
                         $abstract .= $abstracts[$i];
                         $i++;
                     }
+                    //handle apostrophe exception
                     $abstract = str_replace("'", "", $abstract);
                     //save each entry on database
                     saveAbstract($abstractNumber,$abstract);
@@ -55,9 +61,10 @@
     }
 
     //check if file was selected
+    //Kleber's files
     if(isset($_FILES['fileKleber'])){
 
-        //read DTA files
+        //read ZIP file
         $zipFile = $_FILES["fileKleber"];
         $zip = zip_open($zipFile["tmp_name"]);
         $resourceID = 0;
@@ -66,14 +73,20 @@
                 if(zip_entry_open($zip, $zip_entry)){
                     $data = zip_entry_read($zip_entry);
 
+                    //build abstract from file data
                     $data = substr($data,strpos($data,"ABSTRACT:")+10);
                     $data = str_replace("'", "", $data);
-
+                    //handle exception
                     $data .= " ";
 
-                    saveAbstract($resourceID, $data);
-
-                    $resourceID++;
+                    //save each entry on database
+                    if(strpos($data,"relationship") === false){
+                        $resourceID++;
+                    }
+                    else{
+                        saveAbstract($resourceID, $data);
+                        $resourceID++;
+                    }
                 }
             }
         }
