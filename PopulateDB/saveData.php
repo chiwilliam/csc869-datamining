@@ -7,6 +7,7 @@
     //Tuple class
     require_once $_SERVER['DOCUMENT_ROOT']."/CSC869Project/Classes/AbstractData.php";
 
+    //delete old database records
     function deleteOldRecords(){
 
         //open connection with DB
@@ -25,6 +26,7 @@
     //function responsible for saving data onto the database
     function saveAbstract($abstractNumber, $abstract){
 
+        //instantiate abstract object
         $entry = new AbstractData($abstractNumber, $abstract);
 
         //parse abstract content to identify relationships
@@ -33,34 +35,41 @@
             $abstractArray[$i] = substr($abstractArray[$i],strpos($abstractArray[$i],"{\\"));
         }
 
+        //gather foods from abstract
         $foodsArray = extractFoods($abstractArray);
         $foodsArray = indexData($abstract,$foodsArray);
         $entry->__set("foods", $foodsArray);
 
+        //gather relationships from abstract
         $relationshipsArray = extractRelationships($abstractArray);
         $relationshipsArray = indexData($abstract,$relationshipsArray);
         $entry->__set("relationships", $relationshipsArray);
 
+        //gather cancers from abstract
         $cancersArray = extractCancers($abstractArray);
         $cancersArray = indexData($abstract,$cancersArray);
         $entry->__set("cancers", $cancersArray);
 
+        //save abstract if it contains relationships
         if(count($entry->__get("foods")) > 0 || count($entry->__get("relationships")) > 0 || count($entry->__get("cancers")) > 0){
             saveToDB($entry);
         }
     }
 
+    //save data on Database
     function saveToDB($entry){
 
         //open connection with DB
         include $_SERVER['DOCUMENT_ROOT']."/CSC869Project/DB/openDB.php";
 
+        //insert abstract on ABSTRACTS table
         $query = "INSERT INTO ABSTRACTS (number, content) VALUES (
                   '".$entry->__get("abstractNumber")."','".$entry->__get("content")."')";
 
         //execute connection with DB
         mysql_query($query) or die('Error Inserting abstract: '.$entry->__get("content"));
 
+        //select abstractid from ABSTRACTS table
         $query = "SELECT ABSTRACTID FROM ABSTRACTS WHERE NUMBER = ".$entry->__get("abstractNumber");
 
         //execute connection with DB
@@ -71,6 +80,7 @@
             $abstractID = $row['ABSTRACTID'];
         }
 
+        //Insert foods on ENTITIES table
         $foods = $entry->__get("foods");
         for($i=0;$i<count($foods);$i++){
             $query = "INSERT INTO ENTITIES (abstractid, type, phrase, position, weight)
@@ -78,6 +88,7 @@
             mysql_query($query) or die('Error Inserting Food Entity');
         }
 
+        //Insert relationships on ENTITIES table
         $relationships = $entry->__get("relationships");
         for($i=0;$i<count($relationships);$i++){
 
@@ -88,6 +99,7 @@
             mysql_query($query) or die('Error Inserting Relationship Entity');
         }
 
+        //Insert cancers on ENTITIES table
         $cancers = $entry->__get("cancers");
         for($i=0;$i<count($cancers);$i++){
                 $query = "INSERT INTO ENTITIES (abstractid, type, phrase, position, weight)
