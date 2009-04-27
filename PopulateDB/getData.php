@@ -13,9 +13,9 @@
     $message = "";
 
     //check if file was selected
-    if(isset($_FILES['file'])){
+    if(isset($_FILES['fileWilliam'])){
 
-        $file = $_FILES['file'];
+        $file = $_FILES['fileWilliam'];
 
         if($file['size'] > 0){
 
@@ -51,8 +51,38 @@
         }
     }
     else{
-        $message = "Please select a textfile (.TXT) which contains category names.".
-        "The names should be entered one per row.";
+        $message = "";
+    }
+
+    //check if file was selected
+    if(isset($_FILES['fileKleber'])){
+
+        //read DTA files
+        $zipFile = $_FILES["fileKleber"];
+        $zip = zip_open($zipFile["tmp_name"]);
+        $resourceID = 0;
+        if($zip){
+            while($zip_entry = zip_read($zip)){
+                if(zip_entry_open($zip, $zip_entry)){
+                    $data = zip_entry_read($zip_entry);
+
+                    $data = substr($data,strpos($data,"ABSTRACT:")+10);
+                    $data = str_replace("'", "", $data);
+
+                    $data .= " ";
+
+                    saveAbstract($resourceID, $data);
+
+                    $resourceID++;
+                }
+            }
+        }
+        else{
+            $message = "Please select a valid file. File was not selected or is empty.";
+        }
+    }
+    else{
+        $message = "";
     }
 
     include $_SERVER['DOCUMENT_ROOT']."/CSC869Project/PopulateDB/populateDB.php";
