@@ -19,21 +19,31 @@
 
         if($file['size'] > 0){
 
-            $tuples = array();
+            $abstracts = array();
 
             //read text file and create array with information
-            $tuples = file($file["tmp_name"], FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+            $abstracts = file($file["tmp_name"], FILE_IGNORE_NEW_LINES | FILE_TEXT | FILE_SKIP_EMPTY_LINES);
+            $abstractNumber = 0;
 
-            for ($i=0; $i<count($tuples);$i++){
+            deleteOldRecords();
 
-                //convert string with all information from a specific entry to an array
-                $tuples[$i] = split(',',$tuples[$i]);
+            for ($i=0; $i<count($abstracts);$i++){
 
-                //save each entry on database
-                saveTuple($tuples[$i]);
+                $abstract = "";
+                if($abstracts[$i] == "ABSTRACT:\r"){
+                    $i++;
+                    while($abstracts[$i] != "TITLE:\r" && $i < count($abstracts)){
+                        $abstract .= $abstracts[$i];
+                        $i++;
+                    }
+                    $abstract = str_replace("'", "", $abstract);
+                    //save each entry on database
+                    saveAbstract($abstractNumber,$abstract);
+                    $abstractNumber++;
+                }
             }
 
-            $message = $message."Imported ".count($tuples)." records.<br>Process finished at ".date("H:i:s");
+            $message = $message."Records imported.<br>Process finished at ".date("H:i:s");
 
         }
         else{
