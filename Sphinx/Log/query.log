@@ -1,0 +1,65 @@
+[Sun May  3 13:40:40.734 2009] 0.250 sec [all/0/rel 4 (0,20)] [*] was associated with
+[Sun May  3 13:47:58.765 2009] 0.001 sec [all/0/rel 4 (0,20)] [*] was associated with
+[Sun May  3 13:51:34.343 2009] 0.001 sec [all/0/rel 4 (0,500)] [*] was associated with
+[Sun May  3 13:52:15.609 2009] 0.000 sec [all/0/rel 4 (0,500)] [*] was associated with
+[Sun May  3 13:53:12.343 2009] 0.044 sec [all/0/rel 6 (0,500)] [*] inhibit
+[Sun May  3 13:53:35.828 2009] 0.000 sec [any/0/rel 6 (0,500)] [*] inhibit
+[Sun May  3 13:53:51.906 2009] 0.001 sec [all/0/rel 6 (0,500)] [*] inhibit
+[Sun May  3 15:32:46.812 2009] 0.001 sec [all/0/rel 6 (0,500)] [*] inhibit
+[Sun May  3 15:42:33.437 2009] 0.001 sec [all/0/rel 6 (0,20)] [*] inhibit
+[Sun May  3 15:44:25.562 2009] 0.001 sec [all/0/rel 6 (0,500)] [*] inhibit
+[Sun May  3 20:35:36.000 2009] 0.001 sec [all/0/rel 15 (0,500)] [*] inhibit
+[Sun May  3 20:35:52.328 2009] 0.000 sec [all/0/rel 15 (0,500)] [*] inhibit
+[Sun May  3 21:09:17.968 2009] 0.000 sec [all/0/rel 15 (0,1000)] [*] inhibit
+[Sun May  3 21:58:40.328 2009] 0.001 sec [all/0/rel 15 (0,1000)] [*] inhibit
+[Sun May  3 21:58:58.828 2009] 0.000 sec [all/0/rel 15 (0,1000)] [*] inhibit
+[Sun May  3 21:59:33.062 2009] 0.001 sec [all/0/rel 15 (0,1000)] [*] inhibit
+[Sun May  3 21:59:55.171 2009] 0.000 sec [all/0/rel 15 (0,1000)] [*] inhibit
+[Sun May  3 21:59:59.625 2009] 0.001 sec [all/0/rel 15 (0,1000)] [*] inhibit
+[Sun May  3 22:00:10.578 2009] 0.001 sec [all/0/rel 15 (0,1000)] [*] inhibit
+[Sun May  3 22:00:55.484 2009] 0.001 sec [all/0/rel 15 (0,1000)] [*] inhibit
+[Sun May  3 22:16:15.718 2009] 0.005 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 22:16:42.359 2009] 0.002 sec [all/0/rel 5 (0,1000)] [*] was associated
+[Sun May  3 22:17:00.921 2009] 0.004 sec [any/0/rel 32 (0,1000)] [*] was associated with
+[Sun May  3 22:20:41.859 2009] 0.003 sec [any/0/rel 32 (0,1000)] [*] was associated with
+[Sun May  3 22:21:59.890 2009] 0.001 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 22:42:43.765 2009] 0.002 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 22:42:52.359 2009] 0.002 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 22:43:20.421 2009] 0.002 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 22:44:37.531 2009] 0.002 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 22:49:22.828 2009] 0.001 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 22:49:42.093 2009] 0.001 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 22:49:53.250 2009] 0.002 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 23:01:37.781 2009] 0.001 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 23:04:16.250 2009] 0.002 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 23:04:22.656 2009] 0.001 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 23:04:33.625 2009] 0.001 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 23:06:57.140 2009] 0.001 sec [all/0/rel 4 (0,1000)] [*] was associated with
+[Sun May  3 23:07:03.484 2009] 0.000 sec [all/0/rel 15 (0,1000)] [*] inhibits
+[Sun May  3 23:07:39.156 2009] 0.001 sec [all/0/rel 1 (0,1000)] [*] increases proliferation
+[Sun May  3 23:07:46.750 2009] 0.002 sec [all/0/rel 1 (0,1000)] [*] enhances proliferation
+[Sun May  3 23:07:52.250 2009] 0.001 sec [all/0/rel 8 (0,1000)] [*] proliferation
+[Sun May  3 23:08:06.875 2009] 0.001 sec [all/0/rel 1 (0,1000)] [*] enhances proliferation
+[Sun May  3 23:08:16.296 2009] 0.001 sec [all/0/rel 0 (0,1000)] [*] enhances tremendously proliferation
+[Sun May  3 23:08:24.437 2009] 0.000 sec [all/0/rel 0 (0,1000)] [*] enhances tremendously proliferation
+[Sun May  3 23:09:20.281 2009] 0.001 sec [any/0/rel 9 (0,1000)] [*] enhances tremendously proliferation
+[Sun May  3 23:09:26.484 2009] 0.001 sec [any/0/rel 9 (0,1000)] [*] enhances proliferation
+[Sun May  3 23:09:37.093 2009] 0.001 sec [any/0/rel 15 (0,1000)] [*] inhibits
+[Sun May  3 23:09:57.812 2009] 0.001 sec [any/0/rel 9 (0,1000)] [*] enhances tremendously proliferation
+[Sun May  3 23:11:44.046 2009] 0.000 sec [any/0/rel 9 (0,1000)] [*] enhances tremendously proliferation
+[Sun May  3 23:11:50.703 2009] 0.003 sec [any/0/rel 9 (0,1000)] [*] enhances tremendously proliferation
+[Sun May  3 23:12:52.187 2009] 0.001 sec [any/0/rel 9 (0,1000)] [*] enhances tremendously proliferation
+[Sun May  3 23:20:43.765 2009] 0.000 sec [any/0/rel 9 (0,1000)] [*] enhances tremendously proliferation
+[Sun May  3 23:23:18.875 2009] 0.004 sec [any/0/rel 9 (0,1000)] [*] enhances tremendously proliferation
+[Sun May  3 23:23:41.703 2009] 0.002 sec [any/0/rel 9 (0,1000)] [*] enhances tremendously proliferation
+[Sun May  3 23:24:44.125 2009] 0.000 sec [any/0/rel 9 (0,1000)] [*] enhances tremendously proliferation
+[Sun May  3 23:24:51.171 2009] 0.003 sec [any/0/rel 9 (0,1000)] [*] enhances tremendously fucking proliferation
+[Sun May  3 23:24:59.156 2009] 0.001 sec [any/0/rel 15 (0,1000)] [*] inhibits
+[Sun May  3 23:25:04.078 2009] 0.002 sec [any/0/rel 20 (0,1000)] [*] inhibits proliferation
+[Sun May  3 23:25:10.234 2009] 0.002 sec [any/0/rel 32 (0,1000)] [*] was associated with
+[Sun May  3 23:25:17.953 2009] 0.001 sec [any/0/rel 25 (0,1000)] [*] associated
+[Sun May  3 23:25:23.421 2009] 0.003 sec [any/0/rel 8 (0,1000)] [*] proliferation
+[Sun May  3 23:29:10.578 2009] 0.002 sec [any/0/rel 37 (0,1000)] [*] are known to contain high concentrations
+[Sun May  3 23:29:26.437 2009] 0.002 sec [any/0/rel 73 (0,1000)] [*] may protect against the development
+[Sun May  3 23:30:10.203 2009] 0.001 sec [any/0/rel 23 (0,1000)] [*] do not prevent further development
+[Sun May  3 23:30:28.046 2009] 0.004 sec [any/0/rel 43 (0,1000)] [*] accelerated the growth
