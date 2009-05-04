@@ -17,7 +17,7 @@
             </tr>
             <tr>
                 <td align="center" width="300">
-                    <a target="_blank" href=<?php $_SERVER['DOCUMENT_ROOT']?>"/CSC869Project/populateDB/populateDB.php">IMPORT DATA FROM FILE</a>
+                    <a target="_blank" href=<?php $_SERVER['DOCUMENT_ROOT']?>"/CSC869Project/Classification/Classification.php">CLASSIFY RELATIONSHIP</a>
                 </td>
             </tr>
             <tr>
@@ -27,7 +27,7 @@
             </tr>
             <tr>
                 <td align="center" width="300">
-                    <a target="_blank" href=<?php $_SERVER['DOCUMENT_ROOT']?>"/CSC869Project/Classification/Classification.php">CLASSIFY RELATIONSHIP</a>
+                    <a target="_blank" href=<?php $_SERVER['DOCUMENT_ROOT']?>"/CSC869Project/populateDB/populateDB.php">IMPORT DATA FROM FILE</a>
                 </td>
             </tr>
         </table>
