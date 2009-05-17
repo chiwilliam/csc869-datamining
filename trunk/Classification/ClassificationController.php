@@ -2,7 +2,7 @@
 
     //Load Sphinx API
     require_once ($_SERVER['DOCUMENT_ROOT']."/CSC869Project/sphinx/API/sphinxapi.php");
-
+    
     //get Relationship string
     $relationshipText = trim($_POST["relationshipText"]);
 
