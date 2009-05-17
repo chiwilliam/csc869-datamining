@@ -14,6 +14,16 @@
     $data->SetSortMode(SPH_SORT_RELEVANCE);
     $data->SetLimits(0, 1000, 1000 );
 
+    //treate prefix searches
+    $tmp = array();
+    $tmp = explode(" ", $relationshipText);
+    for($i=0;$i<count($tmp);$i++){
+        if(strlen($tmp[$i]) > 4){
+            $tmp[$i] .= '*';
+        }
+    }
+    $input = implode(" ", $tmp);
+
     //search for all occurences of relationship
     $result = $data->Query($relationshipText);
 
@@ -25,6 +35,11 @@
             $message = "WARNING: " . $data->GetLastWarning() . "";
         }
         else{
+            if(!isset($result["matches"]))
+            {
+                //search for all occurences of relationship
+                $result = $data->Query($input);
+            }
             if(isset($result["matches"]))
             {
                 $keys = array_keys($result["matches"]);
@@ -53,7 +68,7 @@
                 }
 
                 //mount query string based on IDs retrieved from SphinxSearch
-                $relationships = array_keys($result["matches"]);
+                    $relationships = array_keys($result["matches"]);
                 foreach( $relationships as $index ){
                     $queryIndexes .= " OR ENTITYID = ".$index;
                 }
@@ -116,9 +131,16 @@
                     $recall = 0;
                 else
                     $recall = round((1/$counter)*100,2);
+                //calculate F_score
+                if($precision == 0 & $recall == 0)
+                    $F_score = 0;
+                else
+                    $F_score = round(2*($recall/100)*($precision/100)/
+                                     (($precision/100)+($recall/100)),2);
 
                 $message .= "<br><br>Precision: ".$precision." %";
                 $message .= "<br>Recall: ".$recall." %";
+                $message .= "<br>F-score: ".$F_score;
             }
             else
                 $message = "No match was found!";
