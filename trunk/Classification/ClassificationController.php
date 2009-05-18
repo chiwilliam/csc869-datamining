@@ -48,22 +48,22 @@
                 $retrieved = 0;
 
                 //eliminate occurrences with lower weight (weaker relationships)
-                $weight = 1;
+                $Sphinxweight = 1;
                 for($i=0;$i<count($keys);$i++){
                     //documents retrieved to calculate precision/recall
                     //ignores weight = 1
                     if($result["matches"][$keys[$i]]["weight"] > 1){
                         $retrieved++;
                     }
-                    if($result["matches"][$keys[$i]]["weight"] >= $weight){
-                        $weight = $result["matches"][$keys[$i]]["weight"];
+                    if($result["matches"][$keys[$i]]["weight"] >= $Sphinxweight){
+                        $Sphinxweight = $result["matches"][$keys[$i]]["weight"];
                     }
                     else{
                         unset($result["matches"][$keys[$i]]);
                     }
                 }
                 //if all matches had weight = 1, consider all
-                if($weight == 1){
+                if($Sphinxweight == 1){
                     $retrieved = count($keys);
                 }
 
