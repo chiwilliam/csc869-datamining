@@ -68,7 +68,7 @@
                 }
 
                 //mount query string based on IDs retrieved from SphinxSearch
-                    $relationships = array_keys($result["matches"]);
+                $relationships = array_keys($result["matches"]);
                 foreach( $relationships as $index ){
                     $queryIndexes .= " OR ENTITYID = ".$index;
                 }
@@ -89,6 +89,8 @@
                     $counter++;
                     $weight += $row['weight'];
                 }
+
+                $weight = $weight/$counter;
 
                 //close connection with DB
                 include $_SERVER['DOCUMENT_ROOT']."/CSC869Project/DB/closeDB.php";
